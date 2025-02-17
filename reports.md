@@ -6,3 +6,4 @@ Git was confiugred to my profile.
 Initial commit done.
 Files pushed to GitHub.
 Github Pages website was created.
+Second Commit was done, Name was added to "index.html".
